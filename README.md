@@ -1,1 +1,1 @@
-# JantarDosFilosofos
+# JantarDosFilosofosSimulador
